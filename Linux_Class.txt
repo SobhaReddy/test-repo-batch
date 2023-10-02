@@ -658,3 +658,4 @@ What SAR in Linux:
 sar: System Activity Report. It can be used to monitor Linux system's resources like CPU usage, Memory utilization, I/O devices consumption, Network monitoring, Disk usage, process and thread allocation, battery performance, Plug and play devices, Processor performance, file system and more
 
 git fetch
+git fetch status
